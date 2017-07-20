@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
     <body>
         <table border="1">
         <tr>
@@ -22,4 +20,3 @@
         ?>
         </table>
     </body>
-</html>
